@@ -1,0 +1,26 @@
+npm install redux react-redux
+npm install @reduxjs/toolkit
+
+create a folder named store and create index.js inside .
+
+update provider in main index.jsimport provider from react-redux
+
+import createStore
+
+when we are working with tollkit we have to create slice, which contains initial state reducer adn functions in the reducer for update.
+
+*** Note ***
+when we use slice we will not use types. we directly create method for updation.
+
+
+
+
+Project:
+step 1 
+
+update the redux by adding isLogin to false 
+store Username and password in the redux
+
+install:
+npm install react-router-dom --save-dev
+npm install react-router

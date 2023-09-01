@@ -1,0 +1,36 @@
+.main {
+  background-color: #282c34;
+  height: 100vh;
+  padding-top: 10%;
+}
+
+.login-btn:hover {
+  box-shadow: 6px 6px black;
+}
+
+.home {
+  background-color: whitesmoke;
+}
+
+.product {
+  border: none;
+  width: 32%;
+  float: left;
+  justify-content: center;
+  text-align: center;
+  margin: 5px;
+  margin-left: 10px;
+  background-color: whitesmoke;
+}
+
+.add-btn {
+  width: 40px;
+  margin-right: 20px;
+  border: none;
+}
+
+.remove-btn {
+  width: 40px;
+  margin-right: 20px;
+  border: none;
+}
